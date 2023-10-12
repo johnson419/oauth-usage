@@ -1,4 +1,5 @@
 import { SessionProvider } from "next-auth/react"
+import Home from '../app/page.client.js';
 
 export default function App({
   Component,
